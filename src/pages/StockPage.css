@@ -1,0 +1,101 @@
+.row.top {
+ align-items: flex-start;
+ height: 100%;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.col-1 {
+ flex: 1 1 2rem;
+ min-width: 280px;
+ max-width: 280px;
+}
+/* Card */
+.card {
+ height: 80px;
+ border: 0.1rem #f3c4c4 solid;
+ background-color: #fff4b7;
+ border-radius: 0.5rem;
+ margin: 1rem;
+}
+.card:hover {
+  box-shadow: 0 0 40px -10px black;
+  transform: translateY(1px);
+  border: 0.1rem #f8f8f8 solid;
+  background-color: #ffef94;
+}
+.card-body {
+ padding: 0.5rem;
+}
+
+.card-body>* {
+ margin-bottom: 0.5rem;
+}
+
+
+button {
+ cursor: pointer;
+ padding: 0.4rem;
+ border-radius: 3rem;
+ text-transform: uppercase;
+ font-family: "Grand Hotel",
+ cursive,
+ sans-serif;
+ outline: none;
+ color: blanchedalmond;
+ border: 0.2rem #f04c40 solid;
+}
+button:hover {
+ border: 0.2rem #fff5f5 solid;
+}
+
+button.primary {
+ background-color: #f04c40;
+}
+button.primary:hover {
+ background-color: #167c16;
+}
+button.block {
+ width: 100%;
+}
+.stock_top{
+  background-color: hsl(55, 100%, 95%);
+}
+#stockpage_bar {
+ font-family: "Grand Hotel",
+  cursive,
+  sans-serif;
+ padding: 0.5rem 0 0.5rem 0;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+@media screen and (min-width:776px) {
+ #stockpage_bar {
+  display: flex;
+ }
+}
+.stockpage_section {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ margin-bottom: 0.25rem;
+ padding: 0.5rem;
+ color: rgb(43, 42, 42);
+}
+.heading {
+ margin-bottom: 1rem;
+ font-size: 2rem;
+ font-weight: 900;
+}
+
+iframe {
+  border: 2px solid #1e9413;
+}

@@ -1,0 +1,48 @@
+.coin-app {
+ display: flex;
+ flex-direction: column;
+ justify-content: start;
+ align-items: center;
+ color: rgb(54, 54, 54);
+ background-color: hsl(54, 93%, 89%);
+ min-height: 100vh;
+ overflow-y: hidden;
+ overflow-x: scroll;
+}
+.coin-app::-webkit-scrollbar {
+  display: none;
+}
+
+.coin-search {
+ margin-bottom: 12px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-content: center;
+}
+
+.coin-text {
+ margin-bottom: 22px;
+ text-align: center;
+}
+
+.coin-input {
+  font-family: "Grand Hotel",
+  cursive,
+  sans-serif;
+  padding: 0.5rem !important;
+  text-align: center;
+  background: #ffffff !important;
+  color: #0c0b01 !important;
+  text-transform: capitalize;
+  font-size: 1.3rem !important;
+  margin: 0.3rem 0 !important;
+  border: 0.3rem solid #ffdfdf !important;
+  border-radius: 0.5rem !important;
+  max-width: 20rem;
+  outline: none;
+}
+
+.coin-input::placeholder {
+ color: #f8caca;
+}
