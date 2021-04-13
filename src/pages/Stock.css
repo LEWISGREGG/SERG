@@ -22,24 +22,30 @@
 }
 .CardWrapper h1 {
  font-size: 2rem;
- padding: 0.5rem 0;
+ padding: 0.2rem 0;
  color: hsl(30, 4%, 10%);
  text-decoration: solid underline black 2px;
 }
 
 .CardWrapper h2 {
  font-size: 1.9rem;
- padding: 0.4rem 0;
+ padding: 0.2rem 0;
  color: #411301;
 margin-left: 1rem;
 }
 .CardWrapper h3 {
   font-size: 1.5rem;
-  padding: 0.3rem 0;
+  padding: 0.2rem 0;
   color: #ff4800;
   margin-left: 1.5rem;
 }
-
+.CardWrapper p {
+  font-size: 2rem;
+  padding: 0.2rem 0;
+  color: #2f4be7;
+  font-weight: 900;
+  margin-left: 1rem;
+}
 a {
  text-decoration: none;
 }
