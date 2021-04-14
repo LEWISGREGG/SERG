@@ -643,7 +643,7 @@ const data = {
       title: "GNCP",
       twitter: "https://mobile.twitter.com/search?q=%24GNCP&src=typed_query&f=live",
       chart: "https://finance.yahoo.com/quote/GNCP?p=GNCP&.tsrc=fin-srch",
-      leveltwo: "https://ih.advfn.com/stock-market/USOTC/global-technologies-pk-GTLL/trades",
+      leveltwo: "https://ih.advfn.com/stock-market/USOTC/gncc-capital-pk-GNCP/trades",
       fillings: "https://www.otcmarkets.com/stock/GNCP/disclosure",  
       news: "https://www.globenewswire.com/search/keyword/Global%252520Technologies%CE%B4%252520Ltd",  
       price: "https://api.twelvedata.com/time_series?symbol=GNCP&interval=1min&apikey=a5e118f7893f4e8f9428f4ef74206850", 
