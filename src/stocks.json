@@ -4,19 +4,18 @@
     "title": "FTEG",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=FTEG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "alert": "ALERT",
-    "rsi": "37.93"
+    "rsi": "37.69"
   },
   {
     "_id": "2",
     "title": "BDGR",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0007",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=BDGR&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.30"
+    "rsi": "51.43"
   
   },
   {
@@ -26,7 +25,7 @@
     "author": "OTC",
     "value": "0.0600",
     "price": "https://api.twelvedata.com/price?symbol=AITX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.65"
+    "rsi": "44.23"
 
   },
   {
@@ -34,21 +33,21 @@
     "title": "MLHC",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0007",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=MLHC&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
-    "rsi": "49.10"
+    "rsi": "40.78"
   },
   {
     "_id": "5",
     "title": "UBQU",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0006",
+    "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=UBQU&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Active",
-    "rsi": "53.47"
+    "rsi": "48.31"
   },
   {
     "_id": "6",
@@ -57,7 +56,7 @@
     "author": "OTC",
     "value": "0.0002",
     "price": "https://api.twelvedata.com/price?symbol=GARB&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "50.02"
+    "rsi": "56.92"
   },
   {
     "_id": "7",
@@ -66,7 +65,7 @@
     "author": "OTC",
     "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=ONCI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "50.85"
+    "rsi": "48.42"
   },
   {
     "_id": "8",
@@ -75,7 +74,7 @@
     "author": "OTC",
     "value": "0.0003",
     "price": "https://api.twelvedata.com/price?symbol=HAON&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "57.34"
+    "rsi": "48.35"
   },
   {
     "_id": "9",
@@ -84,7 +83,7 @@
     "author": "OTC",
     "value": "0.0800",
     "price": "https://api.twelvedata.com/price?symbol=IPSI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "48.61"
+    "rsi": "40.46"
   },
     {
     "_id": "10",
@@ -93,7 +92,7 @@
     "author": "OTC",
     "value": "0.1000",
     "price": "https://api.twelvedata.com/price?symbol=CUBT&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "49.53"
+    "rsi": "41.68"
   },
     {
     "_id": "11",
@@ -102,7 +101,7 @@
     "author": "OTC",
     "value": "0.0030",
     "price": "https://api.twelvedata.com/price?symbol=HPNN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "37.22"
+    "rsi": "28.74"
   }
 ,
     {
@@ -110,11 +109,9 @@
     "title": "RSHN",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=RSHN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "alert": "ALERT",
-    "catalyst": "Current",
-    "rsi": "45.90"
+    "rsi": "28.29"
   },
     {
     "_id": "13",
@@ -125,7 +122,7 @@
     "price": "https://api.twelvedata.com/price?symbol=GDET&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Current",
-    "rsi": "46.44"
+    "rsi": "37.06"
   },
     {
     "_id": "14",
@@ -136,7 +133,7 @@
     "price": "https://api.twelvedata.com/price?symbol=GRLF&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Current",
-    "rsi": "69.19"
+    "rsi": "57.95"
   },
     {
     "_id": "15",
@@ -145,7 +142,7 @@
     "author": "OTC",
     "value": "0.0013",
     "price": "https://api.twelvedata.com/price?symbol=IGEX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "66.49"
+    "rsi": "58.65"
 
   },
     {
@@ -153,9 +150,9 @@
     "title": "EFIR",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=EFIR&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "48.56"
+    "rsi": "50.21"
   },
     {
     "_id": "17",
@@ -164,7 +161,7 @@
     "author": "OTC",
     "value": "0.0050",
     "price": "https://api.twelvedata.com/price?symbol=BRZL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "39.28"
+    "rsi": "30.64"
   },
     {
     "_id": "18",
@@ -173,18 +170,18 @@
     "author": "OTC",
     "value": "0.0090",
     "price": "https://api.twelvedata.com/price?symbol=COPRF&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "48.50"
   },
     {
     "_id": "19",
     "title": "VGID",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0014",
+    "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=VGID&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Current",
-    "rsi": "43.95"
+    "rsi": "37.22"
   },
     {
     "_id": "20",
@@ -193,16 +190,16 @@
     "author": "OTC",
     "value": "0.0027",
     "price": "https://api.twelvedata.com/price?symbol=SRMX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.09"
+    "rsi": "43.21"
   },
     {
     "_id": "21",
     "title": "PRPM",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0007",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=PRPM&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "43.17"
+    "rsi": "42.19"
   },
     {
     "_id": "22",
@@ -211,25 +208,27 @@
     "author": "OTC",
     "value": "0.0010",
     "price": "https://api.twelvedata.com/price?symbol=HCMC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "71.42"
+    "rsi": "58.31"
   },
     {
     "_id": "23",
     "title": "QBAN",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0010",
+    "value": "0.0009",
     "price": "https://api.twelvedata.com/price?symbol=QBAN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "52.02"
+    "rsi": "41.38",
+    "alert": "ALERT",
+    "catalyst": "UPDATES"
   },
     {
     "_id": "24",
     "title": "MMEX",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0015",
+    "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=MMEX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.46"
+    "rsi": "48.34"
   },
     {
     "_id": "25",
@@ -238,26 +237,25 @@
     "author": "OTC",
     "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=MNGG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.26"
+    "rsi": "49.09"
   },
     {
     "_id": "26",
     "title": "ICNM",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0007",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=ICNM&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "alert": "ALERT",
-    "rsi": "53.16"
+    "rsi": "42.78"
   },
     {
     "_id": "27",
     "title": "IDGC",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0014",
+    "value": "0.0009",
     "price": "https://api.twelvedata.com/price?symbol=IDGC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.32"
+    "rsi": "42.87"
   },
     {
     "_id": "28",
@@ -266,37 +264,36 @@
     "author": "OTC",
     "value": "0.0022",
     "price": "https://api.twelvedata.com/price?symbol=AZFL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "39.83"
+    "rsi": "41.58"
   },
     {
     "_id": "29",
     "title": "CZNI",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0010",
+    "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=CZNI&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Updates",
-    "rsi": "50.33"
+    "rsi": "49.80"
   },
     {
     "_id": "30",
     "title": "USMJ",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0012",
+    "value": "0.0009",
     "price": "https://api.twelvedata.com/price?symbol=USMJ&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "49.18",
-    "alert": "ALERT"
+    "rsi": "38.90"
   },
     {
     "_id": "31",
     "title": "NUUU",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0010",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=NUUU&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "52.91"
+    "rsi": "51.95"
   },
     {
     "_id": "32",
@@ -305,7 +302,7 @@
     "author": "OTC",
     "value": "0.0011",
     "price": "https://api.twelvedata.com/price?symbol=VIZC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "54.48"
   },
     {
     "_id": "33",
@@ -314,7 +311,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=PLPL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "51.29"
+    "rsi": "52.85"
   },
     {
     "_id": "34",
@@ -323,7 +320,7 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=NOUV&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.28",
+    "rsi": "54.01",
     "alert": "ALERT"
   },
     {
@@ -333,16 +330,16 @@
     "author": "OTC",
     "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=MTVX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "52.57"
+    "rsi": "53.91"
   },
     {
     "_id": "36",
     "title": "SKYF",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0005",
+    "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=SKYF&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "46.26"
   },
     {
     "_id": "37",
@@ -351,7 +348,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=TGRO&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "59.67"
+    "rsi": "48.82"
   },
     {
     "_id": "38",
@@ -360,25 +357,25 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=PRMO&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.19"
+    "rsi": "65.59"
   },
     {
     "_id": "39",
     "title": "TBEV",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=TBEV&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "57.80"
+    "rsi": "55.25"
   },
     {
     "_id": "40",
     "title": "MDCN",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0007",
+    "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=MDCN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "44.74"
+    "rsi": "43.74"
   },
     {
     "_id": "41",
@@ -387,16 +384,16 @@
     "author": "OTC",
     "value": "0.0011",
     "price": "https://api.twelvedata.com/price?symbol=GGII&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "98.31"
+    "rsi": "78.45"
   },
     {
     "_id": "42",
     "title": "EWLL",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0007",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=EWLL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.06"
+    "rsi": "42.11"
   },
     {
     "_id": "43",
@@ -405,7 +402,7 @@
     "author": "OTC",
     "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=BCAP&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "57.78"
   },
     {
     "_id": "44",
@@ -414,7 +411,7 @@
     "author": "OTC",
     "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=IHSI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "54.45"
+    "rsi": "57.16"
   },
     {
     "_id": "45",
@@ -425,7 +422,7 @@
     "price": "https://api.twelvedata.com/price?symbol=GEGP&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Fillings",
-    "rsi": "64.24"
+    "rsi": "62.73"
   },
     {
     "_id": "46",
@@ -436,7 +433,7 @@
     "price": "https://api.twelvedata.com/price?symbol=ABVG&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Fillings",
-    "rsi": "37.21"
+    "rsi": "42.75"
   },
     {
     "_id": "47",
@@ -445,7 +442,7 @@
     "author": "OTC",
     "value": "0.0150",
     "price": "https://api.twelvedata.com/price?symbol=VPER&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.73"
+    "rsi": "48.42"
   },
     {
     "_id": "48",
@@ -454,7 +451,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=SIML&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "43.89"
+    "rsi": "42.09"
   },
     {
     "_id": "49",
@@ -463,16 +460,16 @@
     "author": "OTC",
     "value": "0.0010",
     "price": "https://api.twelvedata.com/price?symbol=AMLH&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "63.05"
   },
     {
     "_id": "50",
     "title": "MRNJ",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0010",
+    "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=MRNJ&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "40.86"
+    "rsi": "41.09"
   },
     {
     "_id": "51",
@@ -481,16 +478,16 @@
     "author": "OTC",
     "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=UVSE&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "49.15"
+    "rsi": "51.91"
   },
     {
     "_id": "52",
-    "title": "IRNC",
+    "title": "NECA",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0005",
-    "price": "https://api.twelvedata.com/price?symbol=iRNC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.37"
+    "value": "0.0012",
+    "price": "https://api.twelvedata.com/price?symbol=NECA&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "45.65"
   },
     {
     "_id": "53",
@@ -501,25 +498,25 @@
     "price": "https://api.twelvedata.com/price?symbol=BSSP&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Fillings",
-    "rsi": "52.44"
+    "rsi": "52.79"
   },
     {
     "_id": "54",
     "title": "ETEK",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0008",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=ETEK&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "60.87"
+    "rsi": "50.19"
   },
     {
     "_id": "55",
     "title": "PLYZ",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=PLYZ&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.31"
+    "rsi": "43.34"
   },
     {
     "_id": "56",
@@ -528,7 +525,7 @@
     "author": "OTC",
     "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=OCLG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "69.58"
   },
     {
     "_id": "57",
@@ -539,25 +536,25 @@
     "price": "https://api.twelvedata.com/price?symbol=TGGI&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Merger",
-    "rsi": "45.32"
+    "rsi": "44.69"
   },
     {
     "_id": "58",
     "title": "GTLL",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0029",
+    "value": "0.0018",
     "price": "https://api.twelvedata.com/price?symbol=GTLL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "39.12"
+    "rsi": "30.15"
   },
     {
     "_id": "59",
     "title": "GNCP",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0014",
+    "value": "0.0013",
     "price": "https://api.twelvedata.com/price?symbol=GNCP&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "48.72"
+    "rsi": "44.60"
   },
     {
     "_id": "60",
@@ -566,7 +563,7 @@
     "author": "OTC",
     "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=QEDN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "54.74"
   },
     {
     "_id": "61",
@@ -575,7 +572,7 @@
     "author": "OTC",
     "value": "0.0023",
     "price": "https://api.twelvedata.com/price?symbol=SHOM&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "63.25"
+    "rsi": "52.39"
   },
     {
     "_id": "62",
@@ -584,7 +581,7 @@
     "author": "OTC",
     "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=FCGD&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "48.14"
+    "rsi": "57.04"
   },
     {
     "_id": "63",
@@ -593,7 +590,7 @@
     "author": "OTC",
     "value": "0.0011",
     "price": "https://api.twelvedata.com/price?symbol=HPIL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "61.15"
+    "rsi": "59.21"
   },
     {
     "_id": "64",
@@ -602,27 +599,25 @@
     "author": "OTC",
     "value": "0.0021",
     "price": "https://api.twelvedata.com/price?symbol=TWOH&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "35.19",
-    "alert": "ALERT"
+    "rsi": "38.69"
   },
     {
     "_id": "65",
     "title": "HBRM",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0013",
+    "value": "0.0011",
     "price": "https://api.twelvedata.com/price?symbol=TWOH&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.58"
+    "rsi": "37.81"
   },
     {
     "_id": "66",
     "title": "TMGI",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0008",
+    "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=TMGI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.95",
-    "alert": "ALERT"
+    "rsi": "53.08"
   },
     {
     "_id": "67",
@@ -631,7 +626,7 @@
     "author": "OTC",
     "value": "0.0130",
     "price": "https://api.twelvedata.com/price?symbol=VBHI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "48.38"
+    "rsi": "41.75"
   },
     {
     "_id": "68",
@@ -640,25 +635,27 @@
     "author": "OTC",
     "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=SEEK&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "57.37"
+    "rsi": "52.67",
+    "alert": "ALERT",
+    "catalyst": "Fillings"
   },
     {
     "_id": "69",
     "title": "DRNG",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0008",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=DRNG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "58.09"
   },
     {
     "_id": "70",
     "title": "ATYG",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0006",
+    "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=ATYG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "60.82"
   },
     {
     "_id": "71",
@@ -667,18 +664,18 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=ITVI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "51.07"
   },
     {
     "_id": "72",
     "title": "NNRX",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=NNRX&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Fillings",
-    "rsi": "57.77"
+    "rsi": "48.67"
   },
     {
     "_id": "73",
@@ -687,8 +684,7 @@
     "author": "OTC",
     "value": "0.0013",
     "price": "https://api.twelvedata.com/price?symbol=TXTM&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "alert": "ALERT",
-    "rsi": "55.07"
+    "rsi": "51.98"
   },
     {
     "_id": "74",
@@ -697,7 +693,9 @@
     "author": "OTC",
     "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=FONU&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "54.25"
+    "rsi": "48.44",
+    "alert": "ALERT",
+    "catalyst": "Fillings"
   },
     {
     "_id": "75",
@@ -706,7 +704,7 @@
     "author": "OTC",
     "value": "0.0067",
     "price": "https://api.twelvedata.com/price?symbol=GVSI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "89.27"
+    "rsi": "65.89"
   },
     {
     "_id": "76",
@@ -715,18 +713,18 @@
     "author": "OTC",
     "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=APPZ&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "63.07"
   },
     {
     "_id": "77",
     "title": "WRFX",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0011",
+    "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=WRFX&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "alert": "ALERT",
     "catalyst": "Fillings",
-    "rsi": "44.14"
+    "rsi": "43.21"
   },
     {
     "_id": "78",
@@ -735,25 +733,27 @@
     "author": "OTC",
     "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=ABWN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "00.00"
+    "rsi": "65.42"
   },
     {
     "_id": "79",
     "title": "INCT",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=INCT&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "44.99"
+    "rsi": "43.35"
   },
     {
     "_id": "80",
     "title": "ICTY",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0020",
+    "value": "0.0018",
     "price": "https://api.twelvedata.com/price?symbol=ICTY&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "42.73"
+    "rsi": "43.84",
+    "alert": "ALERT",
+    "catalyst": "CURRENT"
   },
     {
     "_id": "81",
@@ -762,7 +762,7 @@
     "author": "OTC",
     "value": "0.0055",
     "price": "https://api.twelvedata.com/price?symbol=ICTY&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "67.90"
+    "rsi": "69.47"
   },
     {
     "_id": "82",
@@ -771,7 +771,7 @@
     "author": "OTC",
     "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=FTWS&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "51.77"
+    "rsi": "52.74"
   },
     {
     "_id": "83",
@@ -780,16 +780,18 @@
     "author": "OTC",
     "value": "0.0015",
     "price": "https://api.twelvedata.com/price?symbol=HVCW&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "58.57"
+    "rsi": "56.17",
+    "alert": "ALERT",
+    "catalyst": "CURRENT"
   },
     {
     "_id": "84",
     "title": "CFGX",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0009",
+    "value": "0.0010",
     "price": "https://api.twelvedata.com/price?symbol=CFGX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "65.69"
+    "rsi": "60.18"
   },
     {
     "_id": "85",
@@ -798,7 +800,7 @@
     "author": "OTC",
     "value": "0.0003",
     "price": "https://api.twelvedata.com/price?symbol=CFGX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "42.90"
+    "rsi": "53.10"
   },
     {
     "_id": "86",
@@ -807,7 +809,7 @@
     "author": "OTC",
     "value": "0.0016",
     "price": "https://api.twelvedata.com/price?symbol=CTLE&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "49.29"
+    "rsi": "43.70"
   },
     {
     "_id": "87",
@@ -816,7 +818,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=RNVA&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "25.07"
+    "rsi": "36.41"
   },
     {
     "_id": "88",
@@ -825,16 +827,16 @@
     "author": "OTC",
     "value": "0.0018",
     "price": "https://api.twelvedata.com/price?symbol=WNBD&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "63.72"
+    "rsi": "49.10"
   },
     {
     "_id": "89",
     "title": "GTEH",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0013",
+    "value": "0.0011",
     "price": "https://api.twelvedata.com/price?symbol=GTEH&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "44.67"
+    "rsi": "43.35"
   },
     {
     "_id": "90",
@@ -843,16 +845,16 @@
     "author": "OTC",
     "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=APYP&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "37.04"
+    "rsi": "42.90"
   },
     {
     "_id": "91",
-    "title": "ECEZ",
+    "title": "PHIL",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0007",
-    "price": "https://api.twelvedata.com/price?symbol=ECEZ&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.13"
+    "value": "0.0022",
+    "price": "https://api.twelvedata.com/price?symbol=PHIL&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "50.36"
   }
 
 
