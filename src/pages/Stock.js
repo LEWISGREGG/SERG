@@ -6,12 +6,15 @@ export default function Stock(props) {
   return (
     <Link to={`/stock/${stock._id}`}>
     <div key={stock._id} className="CardWrapper"> 
+          <h5>{stock.title}</h5>
           <p>{stock.alert}</p>
           <h3>RSI: {stock.rsi}</h3>
-          <h2>{stock.title}</h2>
           <h1>{stock.value}</h1>
+          <h3>{stock.os}</h3>
+          
+          <h3>{stock.status}</h3>
           <h2>{stock.catalyst}</h2>
-        <img className="medium" src={stock.image} alt={stock.title} />
+      
     </div>
     </Link>
 
