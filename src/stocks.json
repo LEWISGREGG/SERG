@@ -41,7 +41,6 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=MLHC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "alert": "ALERT",
     "rsi": "44.87",
     "os": "8,909,020,776",
     "status": "DEFUNCT"
@@ -654,7 +653,7 @@
     "title": "GNCP",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0012",
+    "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=GNCP&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "rsi": "30.64",
     "os": "39,806,920,766",
