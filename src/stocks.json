@@ -907,7 +907,7 @@
     "author": "OTC",
     "value": "0.0055",
     "price": "https://api.twelvedata.com/price?symbol=ICTY&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "64.00",
+    "rsi": "69.27",
     "os": "4,690,419,518",
     "status": "YIELD"
   },
@@ -918,7 +918,7 @@
     "author": "OTC",
     "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=FTWS&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "35.78",
+    "rsi": "37.46",
     "os": "3,270,532,049",
     "status": "DEFUNCT"
   },
@@ -929,7 +929,7 @@
     "author": "OTC",
     "value": "0.0015",
     "price": "https://api.twelvedata.com/price?symbol=HVCW&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "48.40",
+    "rsi": "44.66",
     "alert": "ALERT",
     "catalyst": "CURRENT",
     "os": "3,001,563,774",
@@ -942,7 +942,7 @@
     "author": "OTC",
     "value": "0.0010",
     "price": "https://api.twelvedata.com/price?symbol=CFGX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.86",
+    "rsi": "50.33",
     "os": "3,159,275,316",
     "status": "DEFUNCT"
   },
@@ -953,7 +953,7 @@
     "author": "OTC",
     "value": "0.0002",
     "price": "https://api.twelvedata.com/price?symbol=CFGX&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "52.51",
+    "rsi": "52.32",
     "os": "27,685,264,936",
     "status": "DEFUNCT"
   },
@@ -964,7 +964,7 @@
     "author": "OTC",
     "value": "0.0016",
     "price": "https://api.twelvedata.com/price?symbol=CTLE&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "49.74",
+    "rsi": "52.43",
     "os": "6,234,523,319",
     "status": "PINK"
   },
@@ -975,7 +975,7 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=RNVA&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "30.97",
+    "rsi": "31.55",
     "os": "747,000,000",
     "status": "YIELD"
   },
@@ -986,7 +986,7 @@
     "author": "OTC",
     "value": "0.0014",
     "price": "https://api.twelvedata.com/price?symbol=WNBD&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "44.93",
+    "rsi": "44.48",
     "os": "4,520,022,958",
     "status": "PINK"
   },
@@ -997,7 +997,7 @@
     "author": "OTC",
     "value": "0.0011",
     "price": "https://api.twelvedata.com/price?symbol=GTEH&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "39.72",
+    "rsi": "49.91",
     "os": "13,995,992,699",
     "status": "PINK"
   },
@@ -1008,7 +1008,7 @@
     "author": "OTC",
     "value": "0.0012",
     "price": "https://api.twelvedata.com/price?symbol=APYP&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "54.47",
+    "rsi": "59.70",
     "os": "5,999,288,012",
     "status": "PINK"
   },
@@ -1019,7 +1019,7 @@
     "author": "OTC",
     "value": "0.0022",
     "price": "https://api.twelvedata.com/price?symbol=PHIL&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "74.05",
+    "rsi": "78.23",
     "os": "24,823,740,565",
     "status": "STOP"
   },
@@ -1028,9 +1028,9 @@
     "title": "SANP",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0025",
+    "value": "0.0024",
     "price": "https://api.twelvedata.com/price?symbol=SANP&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "34.33",
+    "rsi": "33.11",
     "os": "9,734,423,813",
     "status": "STOP"
   },
@@ -1041,7 +1041,7 @@
     "author": "OTC",
     "value": "0.0010",
     "price": "https://api.twelvedata.com/price?symbol=BRYYF&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "51.61",
+    "rsi": "46.32",
     "os": "1,566,031,832",
     "status": "PINK"
   },
@@ -1052,7 +1052,7 @@
     "author": "OTC",
     "value": "0.1000",
     "price": "https://api.twelvedata.com/price?symbol=SSFT&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "52.35",
+    "rsi": "42.88",
     "os": "530,546,589",
     "status": "PINK"
   },
@@ -1063,7 +1063,7 @@
     "author": "OTC",
     "value": "0.0009",
     "price": "https://api.twelvedata.com/price?symbol=AAPT&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "92.00",
+    "rsi": "76.73",
     "os": "2,980,416,590",
     "status": "DEFUNCT"
   },
@@ -1072,7 +1072,7 @@
     "title": "BANT",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0079",
+    "value": "0.0078",
     "price": "https://api.twelvedata.com/price?symbol=BANT&apikey=a5e118f7893f4e8f9428f4ef74206850",
     "rsi": "37.93",
     "os": "1,723,206,529",
@@ -1085,7 +1085,7 @@
     "author": "OTC",
     "value": "0.0500",
     "price": "https://api.twelvedata.com/price?symbol=RNWR&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "28.27",
+    "rsi": "55.19",
     "os": "1,395,221,422",
     "status": "PINK"
   },
@@ -1096,7 +1096,7 @@
     "author": "OTC",
     "value": "0.0380",
     "price": "https://api.twelvedata.com/price?symbol=NIHK&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.83",
+    "rsi": "42.44",
     "os": "177,922,436",
     "status": "PINK"
   },
@@ -1107,7 +1107,7 @@
     "author": "OTC",
     "value": "0.2500",
     "price": "https://api.twelvedata.com/price?symbol=GMPW&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "39.79",
+    "rsi": "40.53",
     "os": "42,724,687",
     "status": "CE"
   },
@@ -1118,7 +1118,7 @@
     "author": "OTC",
     "value": "0.0130",
     "price": "https://api.twelvedata.com/price?symbol=RGBP&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "43.34",
+    "rsi": "43.38",
     "alert": "ALERT",
     "catalyst": "CURRENT",
     "os": "3,780,195,788",
@@ -1131,7 +1131,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=AFOM&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "51.06",
+    "rsi": "38.73",
     "alert": "ALERT",
     "catalyst": "FILLINGS",
     "os": "4,181,724,088",
@@ -1142,9 +1142,9 @@
     "title": "RTON",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0014",
+    "value": "0.0013",
     "price": "https://api.twelvedata.com/price?symbol=RTON&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "31.15",
+    "rsi": "37.74",
     "os": "5,351,058,229",
     "status": "DEFUNCT"
   },
@@ -1155,7 +1155,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=RETC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "38.19",
+    "rsi": "37.17",
     "os": "3,979,995,141",
     "status": "DEFUNCT"
   },
@@ -1166,7 +1166,7 @@
     "author": "OTC",
     "value": "0.0018",
     "price": "https://api.twelvedata.com/price?symbol=DRNK&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "40.65",
+    "rsi": "38.21",
     "alert": "ALERT",
     "catalyst": "CURRENT",
     "os": "25,000,000,000",
@@ -1179,7 +1179,7 @@
     "author": "OTC",
     "value": "0.0320",
     "price": "https://api.twelvedata.com/price?symbol=RIII&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.52",
+    "rsi": "46.49",
     "os": "122,520,804",
     "status": "PINK"
   },
@@ -1190,7 +1190,7 @@
     "author": "OTC",
     "value": "0.0026",
     "price": "https://api.twelvedata.com/price?symbol=GMEV&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "38.09",
+    "rsi": "37.32",
     "os": "1,444,201,485",
     "status": "YIELD"
   },
@@ -1201,7 +1201,7 @@
     "author": "OTC",
     "value": "0.0096",
     "price": "https://api.twelvedata.com/price?symbol=WDLF&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "38.26",
+    "rsi": "30.39",
     "os": "7,675,367,467",
     "status": "PINK"
   },
@@ -1212,7 +1212,7 @@
     "author": "OTC",
     "value": "0.0071",
     "price": "https://api.twelvedata.com/price?symbol=WTII&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "42.78",
+    "rsi": "46.98",
     "os": "505,921,959",
     "status": "PINK"
   },
@@ -1221,9 +1221,9 @@
     "title": "RDAR",
     "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
     "author": "OTC",
-    "value": "0.0011",
+    "value": "0.0010",
     "price": "https://api.twelvedata.com/price?symbol=RDAR&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "35.44",
+    "rsi": "31.69",
     "os": "1,171,743,523",
     "status": "YIELD"
   },
@@ -1232,11 +1232,13 @@
     "title": "AHFD",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0003",
+    "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=AHFD&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "53.90",
+    "rsi": "55.04",
     "os": "N/A",
-    "status": "DEFUNCT"
+    "status": "DEFUNCT",
+    "alert": "ALERT",
+    "catalyst": "FILLINGS"
   },
     {
     "_id": "111",
@@ -1245,7 +1247,7 @@
     "author": "OTC",
     "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=NBRI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "45.67",
+    "rsi": "46.70",
     "os": "4,245,391,635",
     "status": "YIELD"
   },
@@ -1256,7 +1258,7 @@
     "author": "OTC",
     "value": "0.0130",
     "price": "https://api.twelvedata.com/price?symbol=ILUS&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "30.15",
+    "rsi": "49.04",
     "os": "1,221,297,366",
     "status": "YIELD"
   },
@@ -1267,7 +1269,7 @@
     "author": "OTC",
     "value": "0.0043",
     "price": "https://api.twelvedata.com/price?symbol=FERN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "44.90",
+    "rsi": "44.63",
     "os": "1,784,729,368",
     "status": "PINK"
   },
@@ -1278,7 +1280,7 @@
     "author": "OTC",
     "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=ATIG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "50.00",
+    "rsi": "74.15",
     "os": "14,902,559,295",
     "status": "DEFUNCT"
   },
@@ -1289,7 +1291,7 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=SDEC&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "31.00",
+    "rsi": "49.47",
     "os": "175,499,187",
     "status": "DEFUNCT"
   },
@@ -1300,7 +1302,7 @@
     "author": "OTC",
     "value": "0.0013",
     "price": "https://api.twelvedata.com/price?symbol=APTY&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "58.30",
+    "rsi": "77.90",
     "os": "2,263,423,836",
     "status": "DEFUNCT"
   },
@@ -1311,7 +1313,7 @@
     "author": "OTC",
     "value": "0.0004",
     "price": "https://api.twelvedata.com/price?symbol=ENTI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "56.68",
+    "rsi": "48.90",
     "os": "29,900,972,000",
     "status": "DEFUNCT"
   },
@@ -1320,9 +1322,9 @@
     "title": "WSFT",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "1.5500",
+    "value": "1.2500",
     "price": "https://api.twelvedata.com/price?symbol=WSFT&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "35.40",
+    "rsi": "49.98",
     "os": "90,964,265",
     "status": "PINK"
   },
@@ -1333,7 +1335,7 @@
     "author": "OTC",
     "value": "0.0060",
     "price": "https://api.twelvedata.com/price?symbol=DSCR&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "41.30",
+    "rsi": "40.16",
     "os": "6,737,913,081",
     "status": "YIELD"
   },
@@ -1342,9 +1344,9 @@
     "title": "FWDG",
     "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
     "author": "OTC",
-    "value": "0.0006",
+    "value": "0.0005",
     "price": "https://api.twelvedata.com/price?symbol=FWDG&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "51.59",
+    "rsi": "46.30",
     "os": "7,598,459,552",
     "status": "PINK"
   },
@@ -1355,7 +1357,7 @@
     "author": "OTC",
     "value": "0.0023",
     "price": "https://api.twelvedata.com/price?symbol=ENTI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "34.23",
+    "rsi": "49.91",
     "os": "5,496,231,963",
     "status": "PINK"
   },
@@ -1366,9 +1368,11 @@
     "author": "OTC",
     "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=SUTI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "35.16",
+    "rsi": "44.20",
     "os": "4,034,209,834",
-    "status": "DEFUNCT"
+    "status": "DEFUNCT",
+    "alert": "ALERT",
+    "catalyst": "FILLINGS"
   },
     {
     "_id": "123",
@@ -1377,7 +1381,7 @@
     "author": "OTC",
     "value": "0.0177",
     "price": "https://api.twelvedata.com/price?symbol=ASTI&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "40.06",
+    "rsi": "46.51",
     "os": "18,345,583,471",
     "status": "PINK"
   },
@@ -1388,7 +1392,7 @@
     "author": "OTC",
     "value": "0.0007",
     "price": "https://api.twelvedata.com/price?symbol=PDGO&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "50.51",
+    "rsi": "51.64",
     "os": "1,877,500,749",
     "status": "DEFUNCT"
   },
@@ -1399,7 +1403,7 @@
     "author": "OTC",
     "value": "0.0100",
     "price": "https://api.twelvedata.com/price?symbol=HDII&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "46.73",
+    "rsi": "41.94",
     "os": "149,358,460",
     "status": "YIELD"
   },
@@ -1410,7 +1414,7 @@
     "author": "OTC",
     "value": "0.0008",
     "price": "https://api.twelvedata.com/price?symbol=MNVN&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "58.65",
+    "rsi": "50.95",
     "os": "1,594,428,611",
     "status": "DEFUNCT"
   },
@@ -1421,7 +1425,7 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=ASKE&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "55.01",
+    "rsi": "62.64",
     "os": "6,562,076,629",
     "status": "DEFUNCT"
   },
@@ -1432,9 +1436,79 @@
     "author": "OTC",
     "value": "0.0006",
     "price": "https://api.twelvedata.com/price?symbol=WWIO&apikey=a5e118f7893f4e8f9428f4ef74206850",
-    "rsi": "54.17",
+    "rsi": "50.47",
     "os": "6,176,030,988",
     "status": "DEFUNCT"
+  },
+    {
+    "_id": "129",
+    "title": "RYCEY",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "1.2000",
+    "price": "https://api.twelvedata.com/price?symbol=RYCEY&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "56.40",
+    "os": "1,930,995,313",
+    "status": "PINK"
+  },
+    {
+    "_id": "130",
+    "title": "ICOA",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0004",
+    "price": "https://api.twelvedata.com/price?symbol=ICOA&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "70.00",
+    "os": "6,176,030,988",
+    "status": "DEFUNCT"
+  },
+    {
+    "_id": "131",
+    "title": "JAMN",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "0.0007",
+    "price": "https://api.twelvedata.com/price?symbol=JAMN&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "48.55",
+    "os": "5,018,195,604",
+    "status": "DEFUNCT",
+    "alert": "ALERT",
+    "catalyst": "FILLINGS"
+  },
+    {
+    "_id": "132",
+    "title": "PBYA",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0005",
+    "price": "https://api.twelvedata.com/price?symbol=PBYA&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "55.02",
+    "os": "2,559,893,315",
+    "status": "DEFUNCT"
+  },
+    {
+    "_id": "133",
+    "title": "FTXP",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "0.0008",
+    "price": "https://api.twelvedata.com/price?symbol=FTXP&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "35.66",
+    "os": "4,092,510,723",
+    "status": "DEFUNCT",
+    "alert": "ALERT",
+    "catalyst": "FILLINGS"
+  },
+    {
+    "_id": "134",
+    "title": "GRLT",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0012",
+    "price": "https://api.twelvedata.com/price?symbol=GRLT&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "50.26",
+    "os": "3,853,836,751",
+    "status": "PINK"
   }
 
 
