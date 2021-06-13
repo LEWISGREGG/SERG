@@ -1509,6 +1509,72 @@
     "rsi": "50.26",
     "os": "3,853,836,751",
     "status": "PINK"
+  },
+    {
+    "_id": "135",
+    "title": "USEI",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "0.0014",
+    "price": "https://api.twelvedata.com/price?symbol=USEI&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "53.64",
+    "os": "6,956,116,348",
+    "status": "PINK"
+  },
+    {
+    "_id": "136",
+    "title": "LLBO",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0010",
+    "price": "https://api.twelvedata.com/price?symbol=LLBO&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "59.08",
+    "os": "3,348,921,001",
+    "status": "DEFUNCT"
+  },
+    {
+    "_id": "137",
+    "title": "LGTT",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "0.0004",
+    "price": "https://api.twelvedata.com/price?symbol=LGTT&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "50.02",
+    "os": "9,768,436,630",
+    "status": "DEFUNCT"
+  },
+    {
+    "_id": "138",
+    "title": "SBES",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0015",
+    "price": "https://api.twelvedata.com/price?symbol=SBES&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "52.78",
+    "os": "3,713,340,959",
+    "status": "DEFUNCT"
+  },
+    {
+    "_id": "139",
+    "title": "GRSO",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "0.0010",
+    "price": "https://api.twelvedata.com/price?symbol=GRSO&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "55.98",
+    "os": "2,550,797,364",
+    "status": "YIELD"
+  },
+    {
+    "_id": "140",
+    "title": "FDMF",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0005",
+    "price": "https://api.twelvedata.com/price?symbol=FDMF&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "52.00",
+    "os": "5,387,911,558",
+    "status": "DEFUNCT"
   }
 
 
