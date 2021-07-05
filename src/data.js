@@ -1704,6 +1704,28 @@ const data = {
       news: "https://www.globenewswire.com/search/keyword/ANDI",  
       price: "https://api.twelvedata.com/time_series?symbol=ANDI&interval=1min&apikey=a5e118f7893f4e8f9428f4ef74206850", 
       target: "https://api.twelvedata.com/price?symbol=ANDI&apikey=a5e118f7893f4e8f9428f4ef74206850",  
+    },
+  {
+      _id: '156',
+      title: "INCC",
+      twitter: "https://mobile.twitter.com/search?q=%24INCC&src=typed_query&f=live",
+      chart: "https://finance.yahoo.com/quote/INCC?p=INCC&.tsrc=fin-srch",
+      leveltwo: "https://ih.advfn.com/stock-market/USOTC/international-consolidat-pk-INCC/trades",
+      fillings: "https://www.otcmarkets.com/stock/INCC/disclosure",  
+      news: "https://www.globenewswire.com/search/keyword/INCC",  
+      price: "https://api.twelvedata.com/time_series?symbol=INCC&interval=1min&apikey=a5e118f7893f4e8f9428f4ef74206850", 
+      target: "https://api.twelvedata.com/price?symbol=INCC&apikey=a5e118f7893f4e8f9428f4ef74206850",  
+    },
+  {
+      _id: '157',
+      title: "UNQL",
+      twitter: "https://mobile.twitter.com/search?q=%24UNQL&src=typed_query&f=live",
+      chart: "https://finance.yahoo.com/quote/UNQL?p=UNQL&.tsrc=fin-srch",
+      leveltwo: "https://ih.advfn.com/stock-market/USOTC/unique-logistics-pk-UNQL/trades",
+      fillings: "https://www.otcmarkets.com/stock/UNQL/disclosure",  
+      news: "https://www.globenewswire.com/search/keyword/UNQL",  
+      price: "https://api.twelvedata.com/time_series?symbol=UNQL&interval=1min&apikey=a5e118f7893f4e8f9428f4ef74206850", 
+      target: "https://api.twelvedata.com/price?symbol=UNQL&apikey=a5e118f7893f4e8f9428f4ef74206850",  
     }
   ],
 };

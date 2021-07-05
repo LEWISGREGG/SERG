@@ -1780,6 +1780,28 @@
     "rsi": "45.95",
     "os": "4,919,209,650",
     "status": "DEFUNCT"
+  },
+    {
+    "_id": "156",
+    "title": "INCC",
+    "image": "https://i.ibb.co/dg6CRh5/RASPYATIE.jpg",
+    "author": "OTC",
+    "value": "0.0010",
+    "price": "https://api.twelvedata.com/price?symbol=INCC&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "39.08",
+    "os": "7,000,000,000",
+    "status": "PINK"
+  },
+    {
+    "_id": "157",
+    "title": "UNQL",
+    "image": "https://i.ibb.co/KzCFQGy/devil.jpg",
+    "author": "OTC",
+    "value": "0.0700",
+    "price": "https://api.twelvedata.com/price?symbol=UNQL&apikey=a5e118f7893f4e8f9428f4ef74206850",
+    "rsi": "49.93",
+    "os": "393,742,663",
+    "status": "PINK"
   }
 
 
