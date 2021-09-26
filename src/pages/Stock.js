@@ -10,7 +10,7 @@ export default function Stock(props) {
           <p>{stock.alert}</p>
           <h3>RSI: {stock.rsi}</h3>
           <h1>{stock.value}</h1>
-          <h3>{stock.os}</h3>
+          <h3>OS: {stock.os}</h3>
           
           <h3>{stock.status}</h3>
           <h2>{stock.catalyst}</h2>
