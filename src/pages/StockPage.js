@@ -58,7 +58,7 @@ export default function StockPage(props) {
             <ul>
               <li>
                 <div className="row">
-                  <div>Latest Level III Info</div>
+                  <div>Latest Trades </div>
                 </div>
               </li>
               <li>
@@ -84,35 +84,9 @@ export default function StockPage(props) {
           </div>
         </div>
 
-        <div className="col-1">
-          <div className="card card-body">
-            <ul>
-              <li>
-                <div className="row">
-                  <div>Latest News</div>
-                </div>
-              </li>
-              <li>
-                <a href={stock.news}><button className="primary block">News Screen</button></a>
-              </li>
-            </ul>
-          </div>
-        </div>
 
-        <div className="col-1">
-          <div className="card card-body">
-            <ul>
-              <li>
-                <div className="row">
-                  <div>Trade Info</div>
-                </div>
-              </li>
-              <li>
-                <a href={stock.price}><button className="primary block">Stock Screen</button></a>
-              </li>
-            </ul>
-          </div>
-        </div>
+
+
 
 
       </div>
